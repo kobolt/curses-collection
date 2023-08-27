@@ -3,7 +3,7 @@
 This is a collection of various curses-based tools and games I have created over the years.
 Each tool can be built individually or all of them together by just using the Makefile in the root directory.
 Should build on Linux at least, not tested on other platforms.
-Check my homepage for more information.
+Check my [homepage/blog](https://kobolt.github.io) for more information.
 
 ### Curses Cave Scroller (cavescroll)
 ![alt text](screenshots/cavescroll.png)
@@ -43,6 +43,9 @@ Check my homepage for more information.
 
 ### Sudoku Solver in Curses (sudoku)
 ![alt text](screenshots/sudoku.png)
+
+### Racing Game in Curses (racer)
+![alt text](screenshots/racer.png)
 
 ### License
 
